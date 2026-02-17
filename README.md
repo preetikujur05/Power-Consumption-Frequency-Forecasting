@@ -30,8 +30,8 @@ pip install pandas numpy matplotlib seaborn statsmodels sklearn
 ## Deployment
 To deploy this project, clone this Repository
 ```bash
-git clone https://github.com/shiksharaginee/Power-Consumption-Frequency-Forecasting
+git clone https://github.com/preetikujur05/Power-Consumption-Frequency-Forecasting
 ```
 
 ## Support
-For support mail shiksharaginee@gmail.com
+For support mail kumaripreetikujur05@gmail.com
